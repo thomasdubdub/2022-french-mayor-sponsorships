@@ -1,4 +1,4 @@
-# 2022 French mayor sponsorships
+# 2022 French mayor sponsorships (latest update: 09/02/22)
 
 Visualization of French mayor's sponsorships for the French presidential election of 2022. Chosen candidates are displayed on a map of metropolitan French towns ("communes").
 
