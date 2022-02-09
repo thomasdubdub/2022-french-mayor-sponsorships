@@ -2,10 +2,10 @@
 
 Visualization of French mayor's sponsorships for the French presidential election of 2022. Chosen candidates are displayed on a map of metropolitan French towns ("communes").
 
-<br/>
-![france-sponsors](france-sponsors.png)
-<br/>
 
+Example: plot candidates on map
+
+![sponsors](france-sponsors.png)
 
 ## Running the tests
 
